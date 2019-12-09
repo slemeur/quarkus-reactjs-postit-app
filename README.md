@@ -5,16 +5,11 @@ A Cloud ready Post it app composed of
 - a Mongodb database
 
 
-To run this demo:
+This demo:
 
-1. Add your prefered Che or CodeReady Workspaces instance: https://blog.sunix.org/factory 
-2. Start the workspace: [![Contribute](factory-contribute.svg)](https://blog.sunix.org/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app)
+[![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-nantes-98fa.nantes-98fa.example.opentlc.com/factory?url=https://github.com/slemeur/quarkus-reactjs-postit-app)
 
-or
 
-```
-https://<your-codeready-workspaces-instance>/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app
-```
 
 
 ![Application topology](topology.png "Application Topology")
