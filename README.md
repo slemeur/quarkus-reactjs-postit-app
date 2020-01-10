@@ -6,7 +6,7 @@ A cloud-native Post-it app composed of:
 
 ## Developer Workspace
 
-[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che-che.apps.cluster-nantes-118f.nantes-118f.example.opentlc.com/?url=https://github.com/slemeur/quarkus-reactjs-postit-app)
+[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che-che.apps.cluster-nantes-118f.nantes-118f.example.opentlc.com/f?url=https://github.com/slemeur/quarkus-reactjs-postit-app)
 
 This Eclipse Che Factory can also be invoked with any host:
 {hostURL}/f?url=https://github.com/slemeur/quarkus-reactjs-postit-app
